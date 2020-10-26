@@ -1,7 +1,4 @@
 Feature: Reset functionality on login page of Application
-  As a user
-  I want to.
-  So that.
   Scenario Outline: Verification of reset button with numbers of credential
     Given Open the Firefox and launch the application
     When I enter the Username "<username>" and Password "<password>"
